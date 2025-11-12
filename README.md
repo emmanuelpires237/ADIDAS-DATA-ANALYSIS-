@@ -33,6 +33,7 @@ This scope ensured the business could not only assess overall performance but al
 
 **6. Performance Optimization** – Used DAX optimization and query reduction for faster dashboard performance.
 
+
 **4.Data Source**
 
 **The data used originated from:**
