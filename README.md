@@ -34,6 +34,7 @@ This scope ensured the business could not only assess overall performance but al
 **6. Performance Optimization** – Used DAX optimization and query reduction for faster dashboard performance.
 
 
+
 **4.Data Source**
 
 **The data used originated from:**
@@ -44,12 +45,15 @@ This scope ensured the business could not only assess overall performance but al
 * Online and offline sales channels
 Data was consolidated into a single analytical model to enable cross-dimensional analysis
 
+
+
 **5.Tools Used**
 
 * Microsoft Power BI* – For dashboard creation, modeling, and interactive visualization.
 * Microsoft Excel – For initial data cleaning, validation, and exploratory analysis.
 * Power Query & DAX (Data Analysis Expressions) – For data transformation and creating calculated KPIs.
 * Canva / PowerPoint (Optional) – For final presentation and reporting design.
+
 
 **6.Results and Key Findings (with KPIs)**
 
@@ -92,6 +96,8 @@ Overall Performance
 **Lowest Month:** August – $7.7M
 Indicates strong Q1 sales momentum with a dip in mid-year performance.
 
+
+
 **7.Recommendations**
 
 Based on insights derived from the dashboard:
@@ -102,6 +108,8 @@ Based on insights derived from the dashboard:
 * Develop retailer performance incentive programs to encourage higher sales consistency across outlets.
 * Investigate mid-year dips to adjust pricing, promotions, or product launches for better seasonal balance.
 * Focus on high-profit states (e.g., NY, FL, CA) for regional marketing campaigns and store expansions.
+
+  
 
 **8.Conclusion**
 
