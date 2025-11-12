@@ -20,12 +20,13 @@ This scope ensured the business could not only assess overall performance but al
 **3.Methodology**
 
 **A structured and iterative data analytics methodology was followed:**
+
 **1.	Data Extraction & Cleaning** – Imported datasets from multiple retail and e-commerce channels, ensuring consistency and accuracy.
 **2.	Data Transformation** – Applied Power Query transformations to handle null values, normalize data, and create calculated columns/measures (e.g., profit margins, YoY growth).
 **3.	Data Modeling** – Built a star schema with key relationships between fact tables (sales, profit) and dimension tables (product, retailer, region).
 **4.	Visualization Design** – Designed dashboards emphasizing clarity, interactivity, and storytelling, using color coding and slicers for intuitive navigation.
 **5.	KPI Definition** – Developed and visualized business-critical KPIs for easy monitoring and comparison.
-**6.	Performance Optimization **– Used DAX optimization and query reduction for faster dashboard performance.
+**6.Performance Optimization **– Used DAX optimization and query reduction for faster dashboard performance.
 
 **4.Data Source**
 
